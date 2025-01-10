@@ -55,28 +55,6 @@ class AdsPowerManager:
         # Raise an exception for failed requests (non-2xx status codes)
         response.raise_for_status()
 
-    def delete_profile(self, profile_id):
-        """
-        Delete a profile from AdsPower.
-
-        Args:
-            profile_id (str): The ID of the profile to delete.
-        """
-        # Construct the URL and payload for the profile deletion request
-        url = f"{self.base_url}/api/v1/user/delete"
-        payload = {"user_ids": [profile_id]}
-
-        response = requests.post(url, json=payload)
-
-        # Log the status of the profile deletion operation
-        logging.info(f"AdsPower Profile Deletion: {response.status_code}")
-
-        # Raise an exception for failed requests (non-2xx status codes)
-        response.raise_for_status()
-
-        # Log the response from the API after profile deletion
-        logging.info(f"Profile Deletion Response: {response.json()}")
-
     def get_cookies(self, profile_id):
         """
         Get cookies and user agent for a given profile.

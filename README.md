@@ -2,6 +2,8 @@
 
 This script automates the process of scraping event data from [StubHub](https://www.stubhub.com/) for US states. It uses AdsPower to manage profiles and retrieve cookies, which are then used to make API requests for event listings. The script handles browser automation via AdsPower to get valid cookies that can be used for API scraping, ensuring seamless interaction with StubHub's platform.
 
+[Video Explanation](https://www.loom.com/share/63eb936c3ac04d5f84945d6b8dec67b6?sid=a09c46f1-f1f1-4060-91d3-98b7c2bfe7c5)
+
 ## Prerequisites
 
 - **Python 3.6+**: Make sure you have Python 3.6 or higher installed on your system.
@@ -74,3 +76,10 @@ In the `settings.py` file, configure the following parameters:
            "rotation_url": "http://**************************************"
        }
    }
+   ```
+
+3. **Number of Retries**:
+     ```python
+     RETRY_ATTEMPTS = 3  # Change if necessary
+     ```
+

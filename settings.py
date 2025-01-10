@@ -13,8 +13,8 @@ PROFILES_TO_PROXIES = {
     # This profile is mapped to a specific proxy with authentication and a rotation URL
     "ksfmgej": {
         # Proxy URL, including authentication credentials
-        "proxy": "http://L1L50NIY9AC7:EBjYU5ItUx@45.79.140.189:8574",
+        "proxy": "http://***********************************",
         # Rotation URL for dynamically changing the proxy during requests
-        "rotation_url": "http://L1L50NIY9AC7:EBjYurosea"
+        "rotation_url": "http://***********************************"
     }
 }
