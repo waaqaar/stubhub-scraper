@@ -1,0 +1,302 @@
+[
+    {
+        "state": "Alabama",
+        "city": "Birmingham",
+        "latitude": 33.518589,
+        "longitude": -86.810356
+    },
+    {
+        "state": "Alaska",
+        "city": "Anchorage",
+        "latitude": 61.218056,
+        "longitude": -149.900278
+    },
+    {
+        "state": "Arizona",
+        "city": "Phoenix",
+        "latitude": 33.448376,
+        "longitude": -112.074036
+    },
+    {
+        "state": "Arkansas",
+        "city": "Little Rock",
+        "latitude": 34.746483,
+        "longitude": -92.289597
+    },
+    {
+        "state": "California",
+        "city": "Los Angeles",
+        "latitude": 34.052235,
+        "longitude": -118.243683
+    },
+    {
+        "state": "Colorado",
+        "city": "Denver",
+        "latitude": 39.739235,
+        "longitude": -104.990250
+    },
+    {
+        "state": "Connecticut",
+        "city": "Bridgeport",
+        "latitude": 41.179225,
+        "longitude": -73.189438
+    },
+    {
+        "state": "Delaware",
+        "city": "Wilmington",
+        "latitude": 39.745833,
+        "longitude": -75.546667
+    },
+    {
+        "state": "Florida",
+        "city": "Miami",
+        "latitude": 25.761681,
+        "longitude": -80.191788
+    },
+    {
+        "state": "Georgia",
+        "city": "Atlanta",
+        "latitude": 33.749001,
+        "longitude": -84.387982
+    },
+    {
+        "state": "Hawaii",
+        "city": "Honolulu",
+        "latitude": 21.306944,
+        "longitude": -157.858333
+    },
+    {
+        "state": "Idaho",
+        "city": "Boise",
+        "latitude": 43.615015,
+        "longitude": -116.202316
+    },
+    {
+        "state": "Illinois",
+        "city": "Chicago",
+        "latitude": 41.878113,
+        "longitude": -87.629799
+    },
+    {
+        "state": "Indiana",
+        "city": "Indianapolis",
+        "latitude": 39.768403,
+        "longitude": -86.158068
+    },
+    {
+        "state": "Iowa",
+        "city": "Des Moines",
+        "latitude": 41.586835,
+        "longitude": -93.624962
+    },
+    {
+        "state": "Kansas",
+        "city": "Wichita",
+        "latitude": 37.687176,
+        "longitude": -97.330053
+    },
+    {
+        "state": "Kentucky",
+        "city": "Louisville",
+        "latitude": 38.252665,
+        "longitude": -85.758456
+    },
+    {
+        "state": "Louisiana",
+        "city": "New Orleans",
+        "latitude": 29.951065,
+        "longitude": -90.071533
+    },
+    {
+        "state": "Maine",
+        "city": "Portland",
+        "latitude": 43.659099,
+        "longitude": -70.256818
+    },
+    {
+        "state": "Maryland",
+        "city": "Baltimore",
+        "latitude": 39.290385,
+        "longitude": -76.612189
+    },
+    {
+        "state": "Massachusetts",
+        "city": "Boston",
+        "latitude": 42.360081,
+        "longitude": -71.058884
+    },
+    {
+        "state": "Michigan",
+        "city": "Detroit",
+        "latitude": 42.331427,
+        "longitude": -83.045753
+    },
+    {
+        "state": "Minnesota",
+        "city": "Minneapolis",
+        "latitude": 44.977753,
+        "longitude": -93.265011
+    },
+    {
+        "state": "Mississippi",
+        "city": "Jackson",
+        "latitude": 32.298757,
+        "longitude": -90.184810
+    },
+    {
+        "state": "Missouri",
+        "city": "Kansas City",
+        "latitude": 39.099727,
+        "longitude": -94.578567
+    },
+    {
+        "state": "Montana",
+        "city": "Billings",
+        "latitude": 45.783285,
+        "longitude": -108.500690
+    },
+    {
+        "state": "Nebraska",
+        "city": "Omaha",
+        "latitude": 41.256537,
+        "longitude": -95.934502
+    },
+    {
+        "state": "Nevada",
+        "city": "Las Vegas",
+        "latitude": 36.169941,
+        "longitude": -115.139832
+    },
+    {
+        "state": "New Hampshire",
+        "city": "Manchester",
+        "latitude": 42.995640,
+        "longitude": -71.454789
+    },
+    {
+        "state": "New Jersey",
+        "city": "Newark",
+        "latitude": 40.735657,
+        "longitude": -74.172367
+    },
+    {
+        "state": "New Mexico",
+        "city": "Albuquerque",
+        "latitude": 35.084385,
+        "longitude": -106.650421
+    },
+    {
+        "state": "New York",
+        "city": "New York City",
+        "latitude": 40.712776,
+        "longitude": -74.005974
+    },
+    {
+        "state": "North Carolina",
+        "city": "Charlotte",
+        "latitude": 35.227085,
+        "longitude": -80.843124
+    },
+    {
+        "state": "North Dakota",
+        "city": "Fargo",
+        "latitude": 46.877186,
+        "longitude": -96.789803
+    },
+    {
+        "state": "Ohio",
+        "city": "Columbus",
+        "latitude": 39.961176,
+        "longitude": -82.998794
+    },
+    {
+        "state": "Oklahoma",
+        "city": "Oklahoma City",
+        "latitude": 35.467560,
+        "longitude": -97.516428
+    },
+    {
+        "state": "Oregon",
+        "city": "Portland",
+        "latitude": 45.505106,
+        "longitude": -122.675026
+    },
+    {
+        "state": "Pennsylvania",
+        "city": "Philadelphia",
+        "latitude": 39.952583,
+        "longitude": -75.165222
+    },
+    {
+        "state": "Rhode Island",
+        "city": "Providence",
+        "latitude": 41.824001,
+        "longitude": -71.412834
+    },
+    {
+        "state": "South Carolina",
+        "city": "Charleston",
+        "latitude": 32.776474,
+        "longitude": -79.931051
+    },
+    {
+        "state": "South Dakota",
+        "city": "Sioux Falls",
+        "latitude": 43.544596,
+        "longitude": -96.731103
+    },
+    {
+        "state": "Tennessee",
+        "city": "Nashville",
+        "latitude": 36.162664,
+        "longitude": -86.781602
+    },
+    {
+        "state": "Texas",
+        "city": "Houston",
+        "latitude": 29.760427,
+        "longitude": -95.369804
+    },
+    {
+        "state": "Utah",
+        "city": "Salt Lake City",
+        "latitude": 40.760780,
+        "longitude": -111.891045
+    },
+    {
+        "state": "Vermont",
+        "city": "Burlington",
+        "latitude": 44.475882,
+        "longitude": -73.212072
+    },
+    {
+        "state": "Virginia",
+        "city": "Virginia Beach",
+        "latitude": 36.852926,
+        "longitude": -75.977985
+    },
+    {
+        "state": "Washington",
+        "city": "Seattle",
+        "latitude": 47.606209,
+        "longitude": -122.332069
+    },
+    {
+        "state": "West Virginia",
+        "city": "Charleston",
+        "latitude": 38.349820,
+        "longitude": -81.632623
+    },
+    {
+        "state": "Wisconsin",
+        "city": "Milwaukee",
+        "latitude": 43.038902,
+        "longitude": -87.906474
+    },
+    {
+        "state": "Wyoming",
+        "city": "Cheyenne",
+        "latitude": 41.139981,
+        "longitude": -104.820246
+    }
+]
